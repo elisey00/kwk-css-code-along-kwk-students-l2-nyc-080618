@@ -1,6 +1,10 @@
 /* add CSS class and element and selectors here */
 body {
-      background-color: maroon;
+      background-color: lightpink;
       font-size: 150%;
     }
     
+.myClass{
+  background-color: lightblue;
+  color:gray;
+}
