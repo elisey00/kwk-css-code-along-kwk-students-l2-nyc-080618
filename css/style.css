@@ -12,12 +12,12 @@ body {
  .anExampleClass {
       font-size: 300%;
       background-color: lightblue;
-      font-family: ;
-      border: 1px dotted red;
+      font-family: calibri;
+      border: 1px dotted purple;
       text-transform: uppercase;
       letter-spacing: 5px;
       transition: rotate(-30)deg;
     }
     
-    <h1 class=.anExampleClass</h1>
+  <h1 class=.anExampleClass></h1>
     
