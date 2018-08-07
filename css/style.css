@@ -11,8 +11,8 @@ body {
 
  .anExampleClass {
       font-size: 300%;
-      background-color: lightgreen;
-      font-family: courier;
+      background-color: lightblue;
+      font-family: ;
       border: 1px dotted red;
       text-transform: uppercase;
       letter-spacing: 5px;
