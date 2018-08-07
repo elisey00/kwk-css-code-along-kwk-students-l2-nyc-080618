@@ -19,5 +19,5 @@ body {
       transition: rotate(-30)deg;
     }
     
-  <h1 class=.anExampleClass></h1>
+  <h1 class=."anExampleClass">border</h1>
     
